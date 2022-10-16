@@ -1,0 +1,5 @@
+node_modules/
+myfile.js
+*.test.js
+tools/tests/vrt/backstop_data
+data/*
